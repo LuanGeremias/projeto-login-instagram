@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0C1014;
+}
+
+header {
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+header > img {
+    width: 110px;
+}
+
+main {
+    width: 100%;
+    height: 600px;
+    background-color: #212324;
+}
